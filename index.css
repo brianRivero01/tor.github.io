@@ -1,0 +1,383 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+header{
+    height: 120px;
+    width: 100%;
+    background-color: #59316B;
+}
+
+#div-header{
+    padding-top: 30px;
+    width:1200px;
+    margin: 0 auto;
+    
+
+}
+
+#img-tor-logo{
+    height: 50px;
+    float: left;
+    padding-right: 20px;
+}
+
+#btn-donate{
+    text-decoration: none;
+    background-color: #FFBF00;
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 8px;
+    border-radius: 6px;
+    float: left;
+    
+    
+}
+
+
+
+#box-item{
+    float: left;
+    position: relative;
+    left: 130px;
+}
+
+.li-item{
+    list-style: none;
+    float: left;
+    padding: 0 8px;
+}
+
+.link-item{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.link-item:hover{
+    color: #ccd0d3;
+}
+
+#box-btn{
+    float:right;
+    position: relative;
+    top:7px;
+}
+
+.btn{
+    padding:5px 6px 10px 10px;
+    background: #59316B;
+    color: white;
+    border: none;
+    font-size: 15px;
+}
+
+.btn:hover{
+    border: 1px solid black;
+    
+    
+}
+
+#flecha{
+    position: relative;
+    top:6.5px;
+}
+
+.btn-2{
+    text-decoration: none;
+    color:white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px 6px 10px 10px;
+    
+}
+
+.btn-2:hover{
+    color: black;
+    background: white;
+
+}
+
+#div-container-1{
+    height: 534px;
+    background-color: #59316B; 
+    position: relative;
+    bottom: 60px;
+    
+}
+
+#titles{
+    width: 600px;
+    margin: 0 auto;
+   
+}
+
+h1{
+    font-family: "Source Sans Pro Light", sans-serif;
+    color: white;
+    font-weight: normal;
+    font-size: 90px;
+    width: 640px;
+}
+
+#title-1{
+    position: relative;
+    top:80px;
+}
+
+#title-2{
+    position: relative;
+    left:50px;
+    top: 15px;
+}
+
+#title-3{
+    color: white;
+    width:1000px;
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    right:140px;
+    bottom: 30px;
+}
+
+.btn-2-tec{
+    padding: 10px 25px;
+    font-size: 20px;
+    position: relative;
+    top: 28px;
+    left: 190px;
+    width: 1000px;
+}
+
+.section{
+    height:340px;
+    width:890px;
+    margin: 0 auto;
+    position: relative;
+    right: 50px;
+    
+}
+
+.img-section-1{
+    float:left;
+}
+
+.box-parrafo-1{
+    float:left;
+    position: relative;
+    left: 100px;
+}
+
+h4{
+    color: #7D46B1;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.p-sections{
+    width:545px;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+    color: #212529;
+}
+
+.section-2{
+    height:340px;
+    width:890px;
+    margin:0 auto;
+    position: relative;
+    right: 80px;
+}
+
+.box-parrafo-2{
+    float:left;
+    
+}
+
+.img-section-2{
+    float:left;
+    position: relative;
+    left: 180px;
+}
+
+#about-box{
+    width:1100px;
+    margin: 0 auto;
+}
+
+h6{
+    color: #7D46B1;
+    font-size: 1rem;
+    
+}
+
+#p-about-box{
+    color: #484848;
+    font-family: Source Sans Pro Light;
+    font-size: 4.5rem;
+    line-height: 5rem;
+    position: relative;
+    bottom: 70px;
+}
+
+#link-about-box{
+    color: #7D4698;
+    text-decoration: none;
+}
+
+#link-about-box:hover{
+    color: #522E64;
+    text-decoration: underline;
+}
+
+#page{
+    height: 100%;
+}
+
+footer{
+    background-color: #59316B;
+    height: 800px;
+    position: relative;
+    bottom: 50px;
+}
+
+#fondo-footer{
+    float:left;
+}
+
+#footer-download{
+    width:650px;
+    float:left;
+    position: relative;
+    top: 60px;
+}
+
+#footer-download h2{
+    color: white;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+#footer-download p{
+    color: white;
+    font-size:20px;
+}
+
+.btn-3{
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: #6036A0;
+    padding:10px;
+    border-radius: 5px;
+}
+
+#flecha-download{
+    position:relative;
+    top: 8px;
+}
+
+#footer-mission{
+    width:300px;
+    position: relative;
+    top:160px;
+    right: 250px;
+    margin: 0 auto;
+    
+}
+
+#footer-mission h5{
+    color: #FFF;
+    font-size: 1.25rem;
+}
+
+#footer-mission p{
+    font-size: 1.3rem;
+    color: #FFF;
+    width:580px;
+    position: relative;
+    bottom: 20px;
+}
+
+#box-list{
+    float:right;
+    width:200px;
+    position: relative;
+    bottom:37px;
+    right: 210px;
+}
+
+#box-list ul{
+    list-style: none;
+}
+
+#box-list ul li{
+    position: relative;
+    right: 41px;
+    padding: 5px 0;
+    
+}
+
+#box-list ul li a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+#btn-donate-2{
+    text-decoration: none;
+    background-color: #FFBF00;
+    color: black;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 3px;
+    float: left;
+    position: relative;
+    bottom: 5px;
+}
+
+#box-suscribe{
+    width: 550px;
+    margin: 0 auto;
+    position: relative;
+    top: 250px;
+    
+    
+}
+
+#box-suscribe-text-1{
+    color:#e6d5ee;
+    font-size: 1.3rem;
+}
+
+#box-suscribe-text-2{
+    font-size: 1.3rem;
+    color: #FFF; 
+    line-height: 2rem;
+}
+
+#box-suscribe a{
+    text-decoration: none;
+    color: #FFF;
+    background-color: #3c2148;
+    border-color: #351d3f;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+#box-2{
+    float:right;
+    position: relative;
+    top: 120px;
+    left:60px;
+}
+
+#jorge{
+    position:relative;
+    right: 125px;
+}
